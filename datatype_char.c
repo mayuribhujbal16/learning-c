@@ -7,8 +7,6 @@ int main()
 	       char ch1,ch2,ch3;
 	       int n1,n2=100(initialization);
 	       float x,y;
-	       
-	 
 	*/
 
 char ch1='A' , ch2, ch3;
